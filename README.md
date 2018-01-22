@@ -1,2 +1,2 @@
-# datasciencecoursera
-Repository for Coursera data science class projects. 
+# Glenna's Coursera Data Science class  project repository
+Work in progress...
